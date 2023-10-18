@@ -1,0 +1,33 @@
+.no-sign {
+  list-style-type: none;
+  padding-bottom: 5px;
+}
+.checkbox-layer {
+  background-color: #f9f9f9;
+  overflow: auto;
+  height: auto;
+  max-height: 350px;
+  flex: 100%;
+  white-space: normal;
+  display: none;
+  outline: none;
+}
+
+.checkbox-layer label {
+  font-weight: normal;
+  color: #333;
+}
+
+.checkbox-layer button {
+  font-weight: normal;
+  background: white;
+  border: 0px;
+}
+
+#b-data-multiselect-info {
+    outline: none;
+}
+
+#b-data-multiselect-info:focus {
+    outline: none;
+}
