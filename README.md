@@ -2,7 +2,7 @@
 <p align="center">
   <a href="https://www.novoshore.com/" target="blank"><img src="https://www.novoshore.com/wp-content/uploads/2018/08/n-ugly-3-e1534939287262.png" width="315" alt="Novoshore Logo" /></a>
 </p>
-<p align="center">Oracle Apex files for Apex projects.</p>
+<p align="center">Welcome to our Oracle Development Showcase Repository !</p>
 
 # INTRODUCTION
 Welcome to our Oracle Development Showcase Repository! This repository serves as a comprehensive resource hub for the Oracle developer community. Here, we meticulously curate, manage, and share a rich assortment of public projects, predominantly centered around Oracle Application Express (APEX).
