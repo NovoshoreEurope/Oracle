@@ -19,6 +19,14 @@ Feel free to dive in, collaborate, fork, and merge as we collectively advance th
 
 Introducing a simple yet effective multi-selector component that allows users to conveniently pick multiple items from a list.
 
+<a href="https://github.com/NovoshoreEurope/Oracle/blob/main/APEX/Plug-ins/NOVOCOIN_TRANSFER_ITEM">NOVOCOIN_TRANSFER_ITEM</a>
+
+Seamlessly send Novocoins to friends, colleagues, or anyone in your network. Simplify Novocoin transactions with this user-friendly and secure plugin.
+
+<a href="https://github.com/NovoshoreEurope/Oracle/blob/main/APEX/Plug-ins/NOVOCOIN_USER_INFO">NOVOCOIN_USER_INFO</a>
+
+Easily check your Novocoin balance at a glance. Get quick insights into your Novocoin holdings with this simple and efficient plugin.
+
 ### Oracle APEX JavaScript API Reference
 
 <p align="left">
