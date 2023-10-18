@@ -1,3 +1,9 @@
+# Novoshore
+<p align="center">
+  <a href="https://www.novoshore.com/" target="blank"><img src="https://www.novoshore.com/wp-content/uploads/2018/08/n-ugly-3-e1534939287262.png" width="315" alt="Novoshore Logo" /></a>
+</p>
+<p align="center">Oracle Apex files for Apex projects.</p>
+
 # ORACLE
 Welcome to our Oracle Development Showcase Repository! This repository serves as a comprehensive resource hub for the Oracle developer community. Here, we meticulously curate, manage, and share a rich assortment of public projects, predominantly centered around Oracle Application Express (APEX).
 
@@ -6,11 +12,6 @@ Within this repository, you'll discover meticulously crafted APEX applications, 
 As you explore this repository, you'll find a treasure trove of meticulously documented code, best practices, and development patterns, all designed to empower Oracle developers in their quest for efficiency and excellence. Whether you're an APEX enthusiast, a plugin aficionado, or a web design connoisseur, our ever-expanding collection of open-source projects provides the ideal playground to explore, innovate, and contribute to the evolving landscape of Oracle development.
 
 Feel free to dive in, collaborate, fork, and merge as we collectively advance the art of Oracle development. Your expertise and contributions are welcome in shaping the future of APEX and Oracle technologies.
-# Novoshore
-<p align="center">
-  <a href="https://www.novoshore.com/" target="blank"><img src="https://www.novoshore.com/wp-content/uploads/2018/08/n-ugly-3-e1534939287262.png" width="315" alt="Novoshore Logo" /></a>
-</p>
-<p align="center">Oracle Apex files for Apex projects.</p>
 
 ### Features
 
