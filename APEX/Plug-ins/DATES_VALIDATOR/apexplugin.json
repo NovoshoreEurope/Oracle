@@ -1,8 +1,8 @@
 {
     "name": "Multi select layer",
     "version": "0.6.1",
-    "description": "Introducing a simple yet effective multi-selector component that allows users to conveniently pick multiple items from a list.",
-    "keywords": ["selector", "layer", "multiple"],
+    "description": "Introducing plugin for validating the correctness and sequence of two dates",
+    "keywords": ["dates", "validation", "sequence"],
     "homepage": "https://github.com/NovoshoreEurope/Apex-Plug-ins",
     "license": "GNU",
     "commercial": "No",
