@@ -1,9 +1,9 @@
 {
-    "name": "Multi select layer",
-    "version": "0.6.1",
-    "description": "Introducing a simple yet effective multi-selector component that allows users to conveniently pick multiple items from a list.",
-    "keywords": ["selector", "layer", "multiple"],
-    "homepage": "https://github.com/NovoshoreEurope/Apex-Plug-ins",
+    "name": "Dates load action validator",
+    "version": "0.8",
+    "description": "Introducing plugin for validating the correctness and sequence of two dates",
+    "keywords": ["dates", "validation", "sequence"],
+    "homepage": "https://github.com/NovoshoreEurope/Oracle/tree/main/APEX/Plug-ins/DATES_VALIDATOR",
     "license": "GNU",
     "commercial": "No",
     "author": {
@@ -12,17 +12,17 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/NovoshoreEurope/Apex-Plug-ins.git"
+        "url": "https://github.com/NovoshoreEurope/Oracle.git"
     },
     "oracle": {
         "versions": ["23.1.5"],
         "apex": {
             "versions": ["23.1.5"],
             "plugin": {
-                "internalName": "MULTI_SELECT_LAYER",
+                "internalName": "DATES_VALIDATOR",
                 "type": "item",
-                "demo": "https://vt1ua0ymgopd1jc-dbnsworkshop.adb.eu-frankfurt-1.oraclecloudapps.com/ords/r/juanantonio/plugin-arena/multi_selector_layer",
-                "previewImage": "https://raw.githubusercontent.com/NovoshoreEurope/Apex-Plug-ins/main/src/images/preview_image_1.png"
+                "demo": "https://vt1ua0ymgopd1jc-dbnsworkshop.adb.eu-frankfurt-1.oraclecloudapps.com/ords/r/juanantonio/plugin-arena/dates-validator",
+                "previewImage": "https://github.com/NovoshoreEurope/Oracle/blob/main/APEX/Plug-ins/DATES_VALIDATOR/src/images/preview_image_1.png"
             }
         }
     }
