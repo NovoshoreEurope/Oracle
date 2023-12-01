@@ -1,5 +1,5 @@
 {
-    "name": "Multi select layer",
+    "name": "Dates validator",
     "version": "0.8",
     "description": "Introducing plugin for validating the correctness and sequence of two dates",
     "keywords": ["dates", "validation", "sequence"],
