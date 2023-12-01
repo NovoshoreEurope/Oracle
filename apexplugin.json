@@ -19,7 +19,7 @@
         "apex": {
             "versions": ["23.1.5"],
             "plugin": {
-                "internalName": "DATES_LOAD_VALIDATOR",
+                "internalName": "DATES_ACTION_LOAD_VALIDATOR",
                 "type": "item",
                 "demo": "https://vt1ua0ymgopd1jc-dbnsworkshop.adb.eu-frankfurt-1.oraclecloudapps.com/ords/r/juanantonio/plugin-arena/dates-validator",
                 "previewImage": "https://github.com/NovoshoreEurope/Oracle/blob/main/APEX/Plug-ins/DATES_VALIDATOR/src/images/preview_image_1.png"
