@@ -54,7 +54,7 @@ begin
 wwv_flow_imp_shared.create_plugin(
  p_id=>wwv_flow_imp.id(30015100127165319)
 ,p_plugin_type=>'DYNAMIC ACTION'
-,p_name=>'DATES_VALIDATOR'
+,p_name=>'DATES_LOAD_VALIDATOR'
 ,p_display_name=>'Dates validator v0.8'
 ,p_category=>'INIT'
 ,p_javascript_file_urls=>'#PLUGIN_FILES#dates_validator/ns.plugin.js'
